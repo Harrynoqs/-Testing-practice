@@ -1,0 +1,23 @@
+{
+  "name": "-testing-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrynoqs/-Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harrynoqs/-Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Harrynoqs/-Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
