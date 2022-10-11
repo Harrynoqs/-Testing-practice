@@ -1,10 +1,10 @@
 const capitalize = require('./Task-4')
 
-test('expected the string to be capitalized = "Andrea" ', () => {
+test('expected the string to be capitalized = "Banana" ', () => {
     //Arrange
-    const str = 'andrea';
+    const str = 'banana';
     //Act 
     const capitalizedStr = capitalize(str);
     //Assert
-    expect(capitalizedStr).toBe('Andrea');
+    expect(capitalizedStr).toBe('Banana');
   })

@@ -5,7 +5,7 @@ test('length for bottle should be 6', () => {
 })
 
 test('throw Error', () => {
-  expect(() => {stringLength('kenya is a great counnty')}).toThrow();
+  expect(() => {stringLength('kenya is a great county')}).toThrow();
 })
 
 test('throw Error', () => {
